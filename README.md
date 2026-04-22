@@ -4,7 +4,7 @@ I'm a Full-Stack Software Engineer who loves building scalable products that sol
 
 ### 🚀 Highlighted Projects
 
-*   🎓 **[LoginPTN](#)**: A large-scale Edutech platform for university entrance exams, featuring interactive tryouts, real-time study groups, and AI integration. *(Built with Supabase & React)*
+*   🎓 **[LoginPTN](https://github.com/Azyte/LoginPTN)**: A large-scale Edutech platform for university entrance exams, featuring interactive tryouts, real-time study groups, and AI integration. *(Built with Supabase & React)*
 *   🌾 **[TaniCerdas AI](https://github.com/Azyte/Petani-Cerdas)**: An offline-ready Progressive Web App (PWA) equipping Indonesian farmers with real-time market data, AI assistance, and a B2B digital marketplace. *(Built with Vite, PWA, & Supabase Edge Functions)*
 *   💎 **[White-Label Top-Up Engine](#)**: A high-performance commercial engine for digital game top-ups featuring live Game ID validation and dynamic checkout flows.
 
