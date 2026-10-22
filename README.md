@@ -12,19 +12,28 @@ Meski masih di awal perjalanan, saya sudah merilis proyek di bidang Edutech, Agr
 
 ---
 
-## 🚀 Proyek yang Pernah Dibangun
+## 📖 Tentang Saya
+
+Saya percaya cara terbaik untuk belajar adalah dengan membangun. Saya menikmati proses mengubah ide menjadi produk fungsional yang bisa digunakan orang lain. Saat ini, saya fokus mendalami pengembangan *full-stack* menggunakan ekosistem JavaScript/TypeScript, dan selalu antusias untuk mengeksplorasi teknologi baru.
+
+---
+
+## 🚀 Proyek Unggulan
 
 | Proyek | Deskripsi | Stack |
 |--------|-----------|-------|
-| 🎓 **[LoginPTN](https://github.com/Azyte/LoginPTN)** | Platform Edutech untuk simulasi ujian masuk perguruan tinggi — tryout interaktif, grup belajar *real-time*, dan integrasi AI | React · Supabase · PostgreSQL |
-| 🌾 **[TaniCerdas AI](https://github.com/Azyte/Petani-Cerdas)** | PWA *offline-first* untuk petani Indonesia — harga pasar *real-time*, asisten AI, dan marketplace B2B | Vite · PWA · Supabase Edge Functions |
+| 🎓 **[LoginPTN](https://github.com/Azyte/LoginPTN)** | Platform Edutech untuk simulasi ujian masuk perguruan tinggi — tryout interaktif, grup belajar *real-time*, dan integrasi AI | TypeScript · React · Supabase · PostgreSQL |
+| 🌾 **[TaniCerdas AI](https://github.com/Azyte/Petani-Cerdas)** | PWA *offline-first* untuk petani Indonesia — harga pasar *real-time*, asisten AI, dan marketplace B2B | JavaScript · Vite · PWA · Supabase Edge Functions |
 | 💎 **[White-Label Top-Up Engine](https://github.com/Azyte/dkaimono-store)** | Mesin top-up game digital dengan validasi Game ID langsung dan alur *checkout* dinamis | Node.js · React |
+| 🧩 **[WIRA](https://github.com/Azyte/WIRA)** | Proyek eksplorasi pengembangan aplikasi mobile menggunakan Kotlin | Kotlin |
+| 🌐 **[ASBUN](https://github.com/Azyte/ASBUN)** & **[asbunv2](https://github.com/Azyte/asbunv2)** | Proyek web eksperimental, dengan `asbunv2` menjadi versi yang dikembangkan ulang menggunakan TypeScript | HTML · TypeScript |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -43,5 +52,7 @@ Meski masih di awal perjalanan, saya sudah merilis proyek di bidang Edutech, Agr
 
 ![Azyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azyte&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azyte&layout=compact&theme=tokyonight&hide_border=true)
+
+**218 kontribusi dalam setahun terakhir** — teruslah membangun! 🚀
 
 </div>
